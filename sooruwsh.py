@@ -79,4 +79,4 @@ async def say(ctx, *, say):
         pass
 
 
-client.run('Nzc3OTk1NzM0MzQ3MDIyMzU4.X7Li_Q.aiaSnxYHK_YnRzpyK0w4p8FLCXM')
+client.run('Nzc3OTk1NzM0MzQ3MDIyMzU4.X7Li_Q.-e-uAr3M5sLx14aD-Ma8kxkgipY')
